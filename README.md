@@ -1,2 +1,2 @@
 # SIght-Of-the-Blind
-A Blind Assistance System using Computer Vision
+A Blind Assistance System which helps a blind person to get to know information of the objects in front of him/her.Using Computer Vision and Image Processing we have developed an Arduino based hardware system which consists of a tongue plate with metal spikes on it. The plate when placed on the tongue gives extremely mild electric shocks from the spikes to produce a shape of the object in front of the person on the person's tongue.
